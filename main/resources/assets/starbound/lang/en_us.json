@@ -1,0 +1,19 @@
+{
+  "item.starbound.tar_ball" : "Tar Ball",
+
+  "block.starbound.tar_block" : "Tar Block",
+  "block.starbound.wet_sandstone" : "Wet Sandstone",
+  "block.starbound.leaking_wet_sandstone" : "Leaking Wet Sandstone",
+  "block.starbound.flesh_block" : "Flesh Block",
+  "block.starbound.brains_block" : "Brains Block",
+  "block.starbound.brains" : "Brains",
+  "block.starbound.eye_stalk" : "Eye Stalk",
+  "block.starbound.eye_stalk_head" : "Eye Stalk",
+  "block.starbound.cell_helix" : "Cell Helix",
+  "block.starbound.tall_cell_helix" : "Tall Cell Helix",
+
+  "item.starbound.pussplum_seed" : "Pussplum Seed",
+  "block.starbound.pussplum_crop" : "Pussplum Crop",
+  "item.starbound.pussplum" : "Pussplum",
+  "block.starbound.nerve" : "Nerve"
+}
